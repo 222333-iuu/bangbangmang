@@ -1,0 +1,13 @@
+﻿  帮帮忙3.0Dlg.cpp
+D:\文件\自写游戏\帮帮忙3.2\帮帮忙3.0\帮帮忙3.0\帮帮忙3.0Dlg.cpp(188,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“/帮帮忙3.0Dlg.cpp”)
+  
+D:\文件\自写游戏\帮帮忙3.2\帮帮忙3.0\帮帮忙3.0\帮帮忙3.0Dlg.cpp(298,37): warning C4244: “参数”: 从“ULONGLONG”转换到“UINT”，可能丢失数据
+  (编译源文件“/帮帮忙3.0Dlg.cpp”)
+  
+  正在生成代码
+  3 of 461 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  帮帮忙3.0.vcxproj -> D:\文件\自写游戏\帮帮忙3.2\帮帮忙3.0\x64\Release\帮帮忙3.0.exe
